@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Going through The Odin Project and learn more about web development with JavaScript.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/morciu?tab=repositories](https://github.com/morciu?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/morciu?tab=repositories)
 
 - 📫 How to reach me **marianpralea@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ofeiQ2v2VbRDca42jNejHKgcPoduSdxWVPVHFXxIfAo/edit?usp=sharing](https://docs.google.com/document/d/1ofeiQ2v2VbRDca42jNejHKgcPoduSdxWVPVHFXxIfAo/edit?usp=sharing)
+- 📄 In case you want to hire me [Resume](https://docs.google.com/document/d/1ofeiQ2v2VbRDca42jNejHKgcPoduSdxWVPVHFXxIfAo/edit?usp=sharing)
 
 - ⚡ Fun fact **Baby carrots are not real, they are sculpted regular carrots.**
 
